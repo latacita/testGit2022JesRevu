@@ -1,8 +1,16 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):  Revuelta San Emeterio, Jesus                                    %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+3) git branch Historia000
+4) git branch Historia001
+5) git checkout Historia000
+7) git add bitacora.txt
+8) git commit -m "Paso 08"
+9) git checkout Historia001
+11) git stash
+11) git checkout Historia000
