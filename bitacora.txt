@@ -25,3 +25,9 @@
 23) git commit -m "Paso 23"
 24) git checkout master
 25) por fast-forward
+26) git add bitacora.txt
+26) git commit -m "Paso 26"
+27) git tag "RespuestaPreguntaFusion"
+28) git push origin
+
+
