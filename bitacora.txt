@@ -29,5 +29,9 @@
 26) git commit -m "Paso 26"
 27) git tag "RespuestaPreguntaFusion"
 28) git push origin
+30) git add bitacora.txt
+30) git commit -m "Paso 30" 
+31) git merge Historia001 recursiva
+
 
 
